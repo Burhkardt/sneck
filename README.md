@@ -1,0 +1,2 @@
+# sneck
+jogo da cobrinha
